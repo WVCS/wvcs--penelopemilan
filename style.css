@@ -1,3 +1,51 @@
 body {
+  background-color: biege;
+}
+p {
+  text-align: center;
+  border-style: solid;
+  border-width: 2px;
+  border-color: beige;
+  margin-bottom: 50px;
+  margin-right: 150px;
+  margin-left: 150px;
+  font-size: 25px;
+}
+h3 {
+  color: beige;
+  text-align: center;
+  font-size: 50px;
+}
+a {
+  color: beige;
+  font-size: 150%;
+  text-decoration: none;
+}
 
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 10px;
+  position: fixed;
+  background-color: RosyBrown;
+  width: 100%;
+  top: 0;
+  left: 0;
+ 
+
+  
+}
+
+li {
+  display: inline;
+  float: left;
+width: 200px;
+padding: 5px;
+margin: 5px;}
+
+li a:hover {
+  background-color: beige;
+  color: black;
+  font-size: 30px;
+  Text
 }
