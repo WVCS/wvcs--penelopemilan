@@ -25,27 +25,31 @@ a {
 ul {
   list-style-type: none;
   margin: 0;
-  padding: 10px;
-  position: fixed;
-  background-color: RosyBrown;
+  padding: 0;
   width: 100%;
-  top: 0;
   left: 0;
- 
-
-  
+  overflow: hidden;
+  background-color: 1C231A;
 }
 
+
 li {
-  display: inline;
   float: left;
-width: 200px;
-padding: 5px;
-margin: 5px;}
+}
+
+li a {
+  display: block;
+  color: DDE5DC;
+  text-align: center;
+  padding: 20px 30px;
+  text-decoration: none;
+}
 
 li a:hover {
-  background-color: beige;
-  color: black;
-  font-size: 30px;
-  Text
+  background-color: 394836;
+}
+
+li a.active {
+  background-color: 3F4F3B;
+  color: 1C231A;
 }
