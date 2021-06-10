@@ -23,7 +23,7 @@ ul {
   width: 100%;
   left: 0;
   overflow: hidden;
-  background-color: BurlyWood;
+  background-color: LightSalmon;
 }
 
 
@@ -33,7 +33,7 @@ li {
 
 li a {
   display: block;
-  background-color:BurlyWood;
+  background-color:LightSalmon;
   text-align: center;
   padding: 20px 30px;
   text-decoration: none;
