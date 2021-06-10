@@ -1,5 +1,5 @@
 body {
-  background-color: DarkOrange;
+  background-color: LemonChiffon;
 }
 p {
   text-align: center;
@@ -12,7 +12,7 @@ p {
   font-size: 25px;
 }
 h3 {
-  color: OliveDrab;
+  color: LightSalmon;
   text-align: center;
   font-size: 50px;
 }
@@ -23,7 +23,7 @@ ul {
   width: 100%;
   left: 0;
   overflow: hidden;
-  background-color: LemonChiffon;
+  background-color: LightBlue;
 }
 
 
