@@ -1,5 +1,5 @@
 body {
-  background-color: BurlyWood;
+  background-color: DarkOrange;
 }
 p {
   text-align: center;
@@ -12,7 +12,7 @@ p {
   font-size: 25px;
 }
 h3 {
-  color: BurlyWood;
+  color: OliveDrab;
   text-align: center;
   font-size: 50px;
 }
@@ -23,7 +23,7 @@ ul {
   width: 100%;
   left: 0;
   overflow: hidden;
-  background-color: Azure;
+  background-color: LemonChiffon;
 }
 
 
@@ -33,7 +33,7 @@ li {
 
 li a {
   display: block;
-  background-color:Azure;
+  background-color:LemonChiffon;
   text-align: center;
   padding: 20px 30px;
   text-decoration: none;
